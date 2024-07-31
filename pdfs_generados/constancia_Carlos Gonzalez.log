@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./salidas_tex/constancia_Maria Lopez.tex"
-(salidas_tex/constancia_Maria Lopez.tex
+**"./salidas_tex/constancia_Carlos Gonzalez.tex"
+(salidas_tex/constancia_Carlos Gonzalez.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -433,8 +433,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box73
 )
-(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Maria Lopez.aux)
-\openout1 = `"constancia_Maria Lopez.aux"'.
+(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Carlos Gonzalez.aux)
+\openout1 = `"constancia_Carlos Gonzalez.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -537,7 +537,7 @@ Package pdftex.def Info: Imagenes/2.png  used on input line 89.
 
 {C:/Users/j/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes/2.png
 > <./Imagenes/1.png>]
-(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Maria Lopez.aux)
+(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Carlos Gonzalez.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -549,20 +549,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  15724 strings out of 474485
- 329851 string characters out of 5753561
+ 329907 string characters out of 5753561
  1932542 words of memory out of 5000000
  37760 multiletter control sequences out of 15000+600000
  563854 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,87p,573b,746s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,87p,577b,746s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "D:\AutomatizacionLaTeX\pdfs_generados\constancia_Maria Lopez
-.pdf" (1 page, 218887 bytes).
+Output written on "D:\AutomatizacionLaTeX\pdfs_generados\constancia_Carlos Gonz
+alez.pdf" (1 page, 218830 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

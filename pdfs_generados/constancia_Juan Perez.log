@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.23)  26 JUL 2024 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.23)  30 JUL 2024 20:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,7 +433,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box73
 )
-(D:\AutomatizacionLaTeX2\pdfs_generados\constancia_Juan Perez.aux)
+(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Juan Perez.aux)
 \openout1 = `"constancia_Juan Perez.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -537,7 +537,7 @@ Package pdftex.def Info: Imagenes/2.png  used on input line 89.
 
 {C:/Users/j/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Imagenes/2.png
 > <./Imagenes/1.png>]
-(D:\AutomatizacionLaTeX2\pdfs_generados\constancia_Juan Perez.aux)
+(D:\AutomatizacionLaTeX\pdfs_generados\constancia_Juan Perez.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -549,7 +549,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  15724 strings out of 474485
- 329846 string characters out of 5753561
+ 329837 string characters out of 5753561
  1932542 words of memory out of 5000000
  37760 multiletter control sequences out of 15000+600000
  563854 words of font info for 55 fonts, out of 8000000 for 9000
@@ -561,8 +561,8 @@ X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.p
 fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "D:\AutomatizacionLaTeX2\pdfs_generados\constancia_Juan Perez
-.pdf" (1 page, 218655 bytes).
+Output written on "D:\AutomatizacionLaTeX\pdfs_generados\constancia_Juan Perez.
+pdf" (1 page, 218655 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
